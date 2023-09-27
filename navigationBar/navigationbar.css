@@ -1,0 +1,36 @@
+
+article.card {
+    width: 525px;
+    height: 155px;
+    border: 1px solid rgb(245, 228, 228);
+    box-shadow: 4px 5px 9px 2px rgb(rgb(250, 246, 210));
+    background-color: rgb(239, 239, 224);
+} 
+
+.texts {
+    background-color: rgb(231, 231, 163);
+    box-shadow: 4px 5px 9px 2px rgb(163, 145, 104);
+    margin-top: 4%;
+    border-radius: 53px;
+    width: 32em;
+    height: 68%;
+    font-weight: 600;
+    margin-left: 1%;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.texts p {
+    margin: 7px;
+    color: rgba(57, 19, 8, 0.884);
+    margin-left: 21px;
+    margin-top: 37px;
+}
+
+img {
+    margin-left: 1px;
+    margin-right: 2px;
+    width: 22px;
+    height: 12px;
+}
